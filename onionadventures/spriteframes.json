@@ -1,0 +1,457 @@
+{
+    "redFrames": [{
+        "name": "red0",
+        "position": {
+            "x": 0,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red1",
+        "position": {
+            "x": 64,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red2",
+        "position":{
+            "x": 128,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red3",
+        "position":{
+            "x": 192,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red4",
+        "position":{
+            "x": 256,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name":"red5",
+        "position":{
+            "x": 320,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name":"red6",
+        "position":{
+            "x": 384,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red7",
+        "position":{
+            "x": 0,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red8",
+        "position":{
+            "x": 64,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red9",
+        "position":{
+            "x": 128,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red10",
+        "position":{
+            "x": 192,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red11",
+        "position":{
+            "x": 256,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "red12",
+        "position":{
+            "x": 320,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name":"red13",
+        "position":{
+            "x":384,
+            "y": 80,
+            "w": 64,
+            "h": 64
+        }
+    }
+],
+
+    "onionFrames": [{
+        "name": "onion0",
+        "position":{
+            "x": 0,
+            "y": 160,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion1",
+        "position":{
+            "x": 64,
+            "y": 160,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion2",
+        "position":{
+            "x": 128,
+            "y": 160,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion3",
+        "position":{
+            "x": 192,
+            "y": 160,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion4",
+        "position": {
+            "x": 256,
+            "y": 160,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion5",
+        "position":{
+            "x": 0,
+            "y": 240,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion6",
+        "position": {
+            "x": 64,
+            "y": 240,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion7",
+        "position": {
+            "x": 128,
+            "y": 240,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion8",
+        "position": {
+            "x": 192,
+            "y": 240,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "onion9",
+        "position": {
+            "x": 256,
+            "y": 240,
+            "w": 64,
+            "h": 64
+        }
+    }
+],
+    "fairyFrames":[{
+        "name": "fairy0",
+        "position": {
+            "x": 0,
+            "y": 320,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy1",
+        "position": {
+            "x": 128,
+            "y": 320,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy2",
+        "position": {
+            "x": 256,
+            "y": 320,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy3",
+        "position":{
+            "x": 384,
+            "y": 320,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy4",
+        "position":{
+            "x": 464,
+            "y": 320,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fairy5",
+        "position":{
+            "x": 528,
+            "y": 320,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fairy6",
+        "position": {
+            "x": 0,
+            "y": 400,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy7",
+        "position":{
+            "x": 128,
+            "y": 400,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy8",
+        "position":{
+            "x": 256,
+            "y": 400,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy9",
+        "position": {
+            "x": 384,
+            "y": 400,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy10",
+        "position": {
+            "x": 0,
+            "y": 480,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy11",
+        "position": {
+            "x": 128,
+            "y": 480,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy12",
+        "position": {
+            "x": 256,
+            "y": 480,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name":"fairy13",
+        "position": {
+            "x": 384,
+            "y": 480,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy14",
+        "position": {
+            "x": 0,
+            "y": 560,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy15",
+        "position": {
+            "x": 128,
+            "y": 560,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy16",
+        "position": {
+            "x": 256,
+            "y": 560,
+            "w": 64,
+            "h": 68
+        }
+    },
+    {
+        "name": "fairy17",
+        "position": {
+            "x": 384,
+            "y": 560,
+            "w": 64,
+            "h": 68
+        }
+    }
+],
+    "fireFrames": [{
+        "name": "fire0",
+        "position": {
+            "x": 464,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire1",
+        "position": {
+            "x": 464,
+            "y": 64,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire2",
+        "position": {
+            "x": 464,
+            "y": 128,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire3",
+        "position": {
+            "x": 464,
+            "y": 192,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire4",
+        "position": {
+            "x": 544,
+            "y": 0,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire5",
+        "position": {
+            "x": 544,
+            "y": 64,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire6",
+        "position": {
+            "x": 544,
+            "y": 128,
+            "w": 64,
+            "h": 64
+        }
+    },
+    {
+        "name": "fire7",
+        "position": {
+            "x": 544,
+            "y": 192,
+            "w": 64,
+            "h": 64
+        }
+    }
+]
+}

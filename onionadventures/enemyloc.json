@@ -1,0 +1,38 @@
+{
+    "level1":[{
+        "name": "enemy0",
+        "x": 1060,
+        "dir": 0,
+        "fly": false,
+        "spd": 0.8
+    },
+    {
+        "name": "enemy1",
+        "x": 2580,
+        "dir": 1,
+        "fly": false,
+        "spd": 0.8
+    },
+    {
+        "name": "enemy2",
+        "x": 4170,
+        "dir": 1,
+        "fly": false,
+        "spd": 1
+    },
+    {
+        "name": "enemy3",
+        "x": 4740,
+        "dir": 0,
+        "fly": true,
+        "spd": 1
+    },
+    {
+        "name": "enemy4",
+        "x": 5400,
+        "dir": 0,
+        "fly": true,
+        "spd": 1
+    }
+]
+}
